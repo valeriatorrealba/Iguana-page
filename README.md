@@ -19,6 +19,7 @@ El proyecto se compone de las siguientes secciones:
 - **Pie de Página (`<footer>`)**: Incluye un enlace para obtener más información sobre las iguanas en el sitio web Anipedia.
 
 ## Tecnologías Utilizadas
+
 - HTML5: Para la estructura del contenido.
 - CSS3: Para el diseño y estilos de la página.
 - Google Fonts: Para la tipografía de la página.
