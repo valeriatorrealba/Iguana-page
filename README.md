@@ -10,7 +10,7 @@ Suricata es una tienda en línea que ofrece una amplia gama de productos aliment
 
 A continuación, se muestra la imagen del resultado codificado:
 
-![iguanaPage](screenshot/iguanaPage.png)
+![iguanaPage](assets/screenshot/iguanaPage.png)
 
 ## Estructura del Proyecto
 
