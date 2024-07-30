@@ -2,6 +2,10 @@
 
 Este proyecto es una página web informativa sobre las iguanas. La página proporciona una descripción general de las iguanas, sus características y algunas imágenes.
 
+## Descripción
+
+Suricata es una tienda en línea que ofrece una amplia gama de productos alimenticios. El sitio web está diseñado para proporcionar una experiencia de usuario agradable y fácil de usar, permitiendo a los clientes navegar por los productos y realizar compras de manera sencilla.
+
 ## Vista Codificada
 
 A continuación, se muestra la imagen del resultado codificado:
